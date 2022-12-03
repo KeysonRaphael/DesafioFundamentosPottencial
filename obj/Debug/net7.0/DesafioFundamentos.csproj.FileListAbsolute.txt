@@ -1,0 +1,15 @@
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.deps.json
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.runtimeconfig.json
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.dll
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/bin/Debug/net7.0/DesafioFundamentos.pdb
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.AssemblyReference.cache
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.AssemblyInfo.cs
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.dll
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/refint/DesafioFundamentos.dll
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.pdb
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/DesafioFundamentos.genruntimeconfig.cache
+/home/keyson/Documentos/git/DIO-POTTENCIAL/DesafioFundamentos/obj/Debug/net7.0/ref/DesafioFundamentos.dll
